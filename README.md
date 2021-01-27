@@ -80,10 +80,10 @@
 ##### *3. Luồng dữ liệu nền tảng*
 <p align="justify"> &nbsp;&nbsp;&nbsp;&nbsp; Gồm có: Input Reader, Map Function, Partition Function, Compare Function, Reduce Function và Output Writer</p>
 #### *V. Code minh họa*
+
 &nbsp;&nbsp;&nbsp;&nbsp; <p align="justify"> https://colab.research.google.com/drive/1vyvdkhgTrj2mMuTq3yCEv1VhVcaphzJ6?usp=sharing
 #### *VI. Tài liệu tham khảo*
-&nbsp;&nbsp;&nbsp;&nbsp; 1.	https://spark.apache.org/
 
-&nbsp;&nbsp;&nbsp;&nbsp; 2.	https://www.mastercode.vn/blog/web-development/apache-spark-la-gi.85
+&nbsp;&nbsp;&nbsp;&nbsp; 1.	https://www.mastercode.vn/blog/web-development/apache-spark-la-gi.85
 
-&nbsp;&nbsp;&nbsp;&nbsp; 3.	http://itechseeker.com/
+&nbsp;&nbsp;&nbsp;&nbsp; 2.	http://itechseeker.com/
