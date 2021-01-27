@@ -81,3 +81,8 @@
 <p align="justify"> &nbsp;&nbsp;&nbsp;&nbsp; Gồm có: Input Reader, Map Function, Partition Function, Compare Function, Reduce Function và Output Writer</p>
 
 #### *IV. Tài liệu tham khảo*
+&nbsp;&nbsp;&nbsp;&nbsp; 1.	https://spark.apache.org/
+
+&nbsp;&nbsp;&nbsp;&nbsp; 2.	https://www.mastercode.vn/blog/web-development/apache-spark-la-gi.85
+
+&nbsp;&nbsp;&nbsp;&nbsp; 3.	http://itechseeker.com/
