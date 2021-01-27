@@ -82,6 +82,7 @@
 #### *V. Code minh họa*
 
 &nbsp;&nbsp;&nbsp;&nbsp; <p align="justify"> https://colab.research.google.com/drive/1vyvdkhgTrj2mMuTq3yCEv1VhVcaphzJ6?usp=sharing
+  
 #### *VI. Tài liệu tham khảo*
 
 &nbsp;&nbsp;&nbsp;&nbsp; 1.	https://www.mastercode.vn/blog/web-development/apache-spark-la-gi.85
